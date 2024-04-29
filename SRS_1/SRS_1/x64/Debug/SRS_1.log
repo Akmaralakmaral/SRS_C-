@@ -1,0 +1,4 @@
+﻿  SRS_1.cpp
+C:\Users\Акмарал\Desktop\3 КУРС ВЕСЕННИЙ СЕМЕСТР\ООП\SRS_1\SRS_1\SRS_1.cpp(436,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Акмарал\Desktop\3 КУРС ВЕСЕННИЙ СЕМЕСТР\ООП\SRS_1\SRS_1\SRS_1.cpp(470,42): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  SRS_1.vcxproj -> C:\Users\Акмарал\Desktop\3 КУРС ВЕСЕННИЙ СЕМЕСТР\ООП\SRS_1\x64\Debug\SRS_1.exe
